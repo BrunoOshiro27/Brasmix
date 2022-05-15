@@ -40,10 +40,13 @@ a:active{
   .zero{
     position:relative;
     height: 100%;
+  
   }
   .one{
-    position:absolute;top:0;
+    position:absolute;bottom:-7px;
     padding: 5px;
+    left:0;
+    width:90vw
   }
   .two{
     position:absolute;top:0; left:20%;
